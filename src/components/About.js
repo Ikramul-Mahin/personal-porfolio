@@ -11,9 +11,7 @@ export default function About() {
             websites.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a Front End developer. I am skilled in making user friendly web application. I love learning new things. I have well skil in Javascript, React, Node Js, Express Js, MongoDB.
           </p>
           <div className="flex justify-center">
             <a
